@@ -1,0 +1,11 @@
+Package: mypackage3
+Type: Mt test Package 3
+Title: test package number 3 has 2 functions
+Version: 0.1.0
+Author: Ralf Schwamborn
+Maintainer: Ralf Schwamborn <rschwamborn@gmx.net>
+Description: two functions
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
